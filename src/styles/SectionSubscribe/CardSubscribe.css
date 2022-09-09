@@ -1,0 +1,68 @@
+.card-subscribe {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 420px;
+    margin: 35px 25px;
+    padding: 45px 40px;
+    box-shadow: 0px 0px 37px -20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+
+}
+
+.price-card {
+    display: flex;
+    align-items: flex-end;
+}
+
+.price {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+}
+
+.price-per-month {
+    margin-left: 10px;
+    margin-bottom: 5px;
+    color: #FFD675;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.card-title {
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.description {
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #676767;
+}
+
+.line-card {
+    margin-top: 20px;
+    width:100%;
+    border: 1px solid #FFD675;
+}
+
+.subscribe-features {
+    margin-top: 45px;
+}
+
+.row-feature {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.title-feature {
+    margin-left: 15px;
+}
+

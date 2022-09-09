@@ -1,0 +1,15 @@
+.nav-item {
+    margin-right: 52px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+    color: #000;
+    transition: .1s linear;
+}
+
+.nav-item:hover {
+    color: #EF0008;
+}

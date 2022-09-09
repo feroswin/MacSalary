@@ -1,0 +1,55 @@
+.btn-login {
+    width: 110px;
+    height:40px;
+    background: #EF0008;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+
+    transition: .1s linear;
+}
+
+.btn-login:hover {
+    filter: brightness(105%);
+}
+
+.btn-registration {
+    width: 250px;
+    height:40px;
+    background: #EF0008;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.05em;
+
+    color: #FFFFFF;
+}
+
+.btn-card-order-sub {
+    margin: 40px auto 0;
+    width:250px;
+    height:40px;
+    background: #46D68C;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    letter-spacing: -0.05em;
+    cursor: pointer;
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,49 @@
+.section-welcome {
+    background-image: url('../../img/restaurant.png');
+    background-clip: border-box;
+    width:100%;
+    background-size: 100%;
+    background-position: left 10%;
+    background-repeat: no-repeat;
+    height: 1000px;
+    position: relative;
+    z-index: -2;
+}
+
+.gradient {
+    background-size: inherit;
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    width:80%;
+    height:100%;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.96) 0%, rgba(255, 255, 255, 0.9504) 56.29%, rgba(255, 255, 255, 0.7104) 73.91%, rgba(255, 255, 255, 0.4896) 84.9%, rgba(255, 255, 255, 0) 100%);
+}
+
+.content-welcome {
+    padding-top: 145px;
+    width: 600px;
+    font-family: 'Montserrat';
+    font-style: normal;
+}
+
+.title-welcome {
+    width: 100%;
+    font-weight: 800;
+    font-size: 52px;
+    line-height: 63px;
+    text-transform: uppercase;
+    color: #FFB300;
+    margin-bottom: 20px;
+}
+
+.text-welcome {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 50px;
+}
+
+.description-welcome:last-child {
+    margin-top: 50px;
+}
