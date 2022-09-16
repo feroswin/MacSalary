@@ -1,0 +1,10 @@
+.stat-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+
+.stat-list .stat:nth-child(even) .stat-number {
+    color: #FFB300;
+}

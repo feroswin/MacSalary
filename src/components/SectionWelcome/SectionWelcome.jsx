@@ -13,7 +13,7 @@ const SectionWelcome = () => {
           <div className="description-welcome">
             <div className="text-welcome">Оформите подписку в личном кабинете - пройдите проверку - <br/>
               и получите подписку на наш сервис <strong>с 50% скидкой</strong></div>
-            <MyButton className="btn-registration">
+            <MyButton className="btn btn-registration">
               Оформить подписку
             </MyButton>
           </div>
@@ -23,7 +23,7 @@ const SectionWelcome = () => {
               <div className="text-welcome">Зарегистрируйте личный кабинет - пройдите проверку -
                 и выберите необходимую подписку</div>
             </div>
-            <MyButton className="btn-registration">
+            <MyButton className="btn btn-registration">
               Регистрация
             </MyButton>
           </div>

@@ -9,7 +9,7 @@ const ListNavItems = () => {
       <NavItem>Подписки</NavItem>
       <NavItem>Новости</NavItem>
       <NavItem>О нас</NavItem>
-      <MyButton className="btn-login">Вход</MyButton>
+      <MyButton className="btn btn-login">Вход</MyButton>
     </>
   );
 };

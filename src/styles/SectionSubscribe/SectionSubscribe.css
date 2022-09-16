@@ -1,8 +1,17 @@
 .section-subscribe {
-    padding: 110px 0;
+    padding: 110px 0 50px;
+    position: relative;
 }
 
 .cards-subscribe {
     display: flex;
+    justify-content:center;
     margin-top: 25px
+}
+
+.line-subscribe {
+    position: absolute;
+    right: 0;
+    top: 100px;
+    z-index:-10;
 }

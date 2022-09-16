@@ -1,0 +1,9 @@
+.section-news {
+    padding-bottom: 80px;
+}
+
+.line-news {
+    position: absolute;
+    left: 0;
+    z-index: -10;
+}

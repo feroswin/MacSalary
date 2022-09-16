@@ -36,7 +36,7 @@ const CardSubscribe = ({price, title, description, settings}) => {
           <div className="title-feature">Выгрузка в Excel</div>
         </div>
       </div>
-      <MyButton className="btn-card-order-sub">
+      <MyButton className="btn btn-card-order-sub">
         Оформить подписку
       </MyButton>
     </div>
